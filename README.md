@@ -1,6 +1,5 @@
-***********************
-* Ignited Geolocation *
-***********************
+Ignited Geolocation
+
 
 Ignited Geolocation is a wrapper class/library based on the Yahoo Placefinder geolocation API set which
 can be found here: http://developer.yahoo.com/geo/placefinder/
