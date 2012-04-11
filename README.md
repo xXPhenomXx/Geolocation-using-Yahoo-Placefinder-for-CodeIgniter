@@ -5,9 +5,9 @@ Ignited Geolocation
 Ignited Geolocation is a wrapper class/library based on the Yahoo Placefinder geolocation API set which
 can be found here: http://developer.yahoo.com/geo/placefinder/
 
-Fork   : https://github.com/IgnitedDatatables/Ignited-Datatables
-Wiki   : https://github.com/IgnitedDatatables/Ignited-Datatables/wiki
-Discuss: http://codeigniter.com/forums/viewthread/160896/
+Fork   : https://github.com/xXPhenomXx/Geolocation-using-Yahoo-Placefinder-for-CodeIgniter/fork
+Wiki   : https://github.com/xXPhenomXx/Geolocation-using-Yahoo-Placefinder-for-CodeIgniter/wiki
+Discuss: http://coderage.me/blog/?p=86
 Contact: Jassen Michaels <jassen@coderage.me>
 
 ============
