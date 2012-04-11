@@ -12,8 +12,11 @@ can be found here: http://developer.yahoo.com/geo/placefinder/
 Using this library you can get the latitude, longitude, zip code, county and more from a supplied address.
 
 Fork   : https://github.com/xXPhenomXx/Geolocation-using-Yahoo-Placefinder-for-CodeIgniter/fork
+
 Wiki   : https://github.com/xXPhenomXx/Geolocation-using-Yahoo-Placefinder-for-CodeIgniter/wiki
+
 Discuss: http://coderage.me/blog/?p=86
+
 Contact: Jassen Michaels <jassen@coderage.me>
 
 ============
