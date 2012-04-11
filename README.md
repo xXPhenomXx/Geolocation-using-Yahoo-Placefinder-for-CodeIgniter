@@ -1,6 +1,6 @@
-===================
-Ignited Geolocation
-===================
+=========================
+-- Ignited Geolocation --
+=========================
 
 =========================
 About Ignited Geolocation
@@ -8,6 +8,8 @@ About Ignited Geolocation
 
 Ignited Geolocation is a wrapper class/library based on the Yahoo Placefinder geolocation API set which
 can be found here: http://developer.yahoo.com/geo/placefinder/
+
+Using this library you can get the latitude, longitude, zip code, county and more from a supplied address.
 
 Fork   : https://github.com/xXPhenomXx/Geolocation-using-Yahoo-Placefinder-for-CodeIgniter/fork
 Wiki   : https://github.com/xXPhenomXx/Geolocation-using-Yahoo-Placefinder-for-CodeIgniter/wiki
